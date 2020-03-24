@@ -5,9 +5,9 @@
   <artifactId>production_ssm</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  
+
   <dependencies>
-  	<!-- 时间操作组件 -->
+  	<!-- 时间操作组件  -->
 	<dependency>
 		<groupId>joda-time</groupId>
 		<artifactId>joda-time</artifactId>
